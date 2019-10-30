@@ -7,7 +7,7 @@ Having a growth mindset to me means not giving up on yourself, and accepting tha
 
 #### Reminders To Keep A Growth Mindset:
 
-:thinking: Think  :thinking:
+:thinking:  Think   :thinking:
 1. What will you learn from this?
 2. How will this experience make you better?
 3. It will be over at some point!
