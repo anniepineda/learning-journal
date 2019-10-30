@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Having A Growth Mindset Means...
 
-You can use the [editor on GitHub](https://github.com/anniepineda/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Having a growth mindset to me means not giving up on yourself, and accepting that setbacks happen but ultimetly you learn and grow from them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<hr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Reminders To Keep A Growth Mindset:
 
-```markdown
-Syntax highlighted code block
+:thinking: Think  :thinking:
+1. What will you learn from this?
+2. How will this experience make you better?
+3. It will be over at some point!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anniepineda/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><img class="aligncenter" src="https://i.pinimg.com/736x/70/3f/af/703faf82f80256f17727c6f2e98840b8--so-true-twitter.jpg" /></p>
