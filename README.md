@@ -15,6 +15,7 @@ Having a growth mindset to me means not giving up on yourself, and accepting tha
 <p><img class="aligncenter" src="https://i.pinimg.com/736x/70/3f/af/703faf82f80256f17727c6f2e98840b8--so-true-twitter.jpg" /></p>
 
 <hr>
+
 ##### About Me
 
 Hi! I'm Annie. I am originaly from California and have been living in the Greater Seattle area for 5 years. Although I miss the sun now and then I love it here! I am very excited to start this new learning path and invite you to follow me along; my GitHub portfolio page is [github](https://github.com/anniepineda) . I welcome feedback, advice and challanges!
