@@ -5,7 +5,7 @@ Having a growth mindset to me means not giving up on yourself, and accepting tha
 
 <hr>
 
-### Reminders To Keep A Growth Mindset:
+#### Reminders To Keep A Growth Mindset:
 
 :thinking: Think  :thinking:
 1. What will you learn from this?
@@ -21,5 +21,6 @@ Hi! I'm Annie. I am originaly from California and have been living in the Greate
 
 
 Cheers,
+
 
 Annie
