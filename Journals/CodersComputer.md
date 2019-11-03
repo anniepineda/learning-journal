@@ -44,7 +44,6 @@ A text editor is software used to help a programer manage text, particularly tex
 
 *Line 6* presents us with a prompt again. After the command has run and the terminal is ready for you to enter another command the prompt will be displayed. If no prompt is displayed then the command may still be running (you will learn later how to deal with this).
 
-Your terminal probably won't have line numbers on it. I have just included them here to make it easier to refer to different parts of the material.
 
 #### "Cheat Sheet" Bash
 
