@@ -32,3 +32,4 @@ Annie
 #### Table of Contents
 
 - [What is Markdown](./Journals/Markdown.md)
+- [Coders Computer](./Journals/CodersComputer.md)
