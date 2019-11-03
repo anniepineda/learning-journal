@@ -24,6 +24,8 @@ Having a growth mindset to me means not giving up on yourself, and accepting tha
 - [Revisions And The Cloud Learnings](./Journals/RevisionsandtheCloud.md)
 - [Revisions And The Cloud](./Journals/RevisionsandtheCloud2.md)
 - [Structure Web Pages With HTML](./Journals/StructureWebPagesWithHtml.md)
+- [Design Web Pages With CSS](./Journals/DesignWebPagesWithCss.md)
+
 
 
 
