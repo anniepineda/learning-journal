@@ -1,10 +1,12 @@
 ### The Coders Computer
 
-Like an artist is careful and selective of the materials they use programers are as well... There are many options available when it comes to choosing a text editor and it comes down to functionality and preference. 
+<hr>
+
+Like an artist is careful and selective of the materials they use programmers are as well... There are many options available when it comes to choosing a text editor and it comes down to functionality and preference. 
 
 #### What Is A Text Editor?
 
-A text editor is software used to help a programer manage text, particularly text used to build websites. 
+A text editor is software used to help a programmer manage text, particularly text used to build websites. 
 
 #### What Features Are Important In A Text Editor?
 
