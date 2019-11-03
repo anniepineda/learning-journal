@@ -21,7 +21,9 @@ Having a growth mindset to me means not giving up on yourself, and accepting tha
 
 - [What is Markdown](./Journals/Markdown.md)
 - [Coders Computer](./Journals/CodersComputer.md)
-- [Revisions And The Cloud](./Journals/RevisionsandtheCloud.md)
+- [Revisions And The Cloud Learnings](./Journals/RevisionsandtheCloud.md)
+- [Revisions And The Cloud](./Journals/RevisionsandtheCloud2.md)
+
 
 
 
