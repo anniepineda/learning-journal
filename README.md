@@ -26,6 +26,9 @@ Having a growth mindset to me means not giving up on yourself, and accepting tha
 - [Structure Web Pages With HTML](./Journals/StructureWebPagesWithHtml.md)
 - [Design Web Pages With CSS](./Journals/DesignWebPagesWithCss.md)
 - [Dynamic Web Pages With JavaScript](./Journals/DynamicWebPagesWithJavascript.md)
+- [Computer Architecture and Logic](./Journals/ComputerArchitectureandLogic.md)
+- [Programming With JavaScript](.Journals/ProgramingWithJavascript.md)
+
 
 
 
