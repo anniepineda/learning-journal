@@ -19,9 +19,10 @@ Having a growth mindset to me means not giving up on yourself, and accepting tha
 
 #### Table of Contents
 
+- [Growth Mindset](./Journals/GrowthMindset.md)
 - [What is Markdown](./Journals/Markdown.md)
 - [Coders Computer](./Journals/CodersComputer.md)
-- [Learnings](./Journals/Learnings.md)
+- [Revisions And The Cloud](./Journals/RevisionsandtheCloud.md)
 
 
 
