@@ -2,7 +2,7 @@
 
 <hr>
 
-#### Hoe do computers work?
+#### How do computers work?
 
 Computers process information by *taking input*, *storing information*, and *processing information*. This information is trnsfered by electrical signals giving the computer zeros and ones–– bianry data. 
 
