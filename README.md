@@ -29,6 +29,6 @@ Annie
 
 
 
-##### Table of Contents
+#### Table of Contents
 
-[What is Markdown](./Journals/Markdown.md)
+- [What is Markdown](./Journals/Markdown.md)
